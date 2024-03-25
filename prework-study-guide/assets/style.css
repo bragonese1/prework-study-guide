@@ -6,7 +6,7 @@
 header,
 footer {
     width: 100%;
-    height: 120px;
+    height: 150px;
     background-color: blue;
     color: white;
 }
@@ -41,4 +41,3 @@ p {
     box-shadow: 5px 10px #888888;
   }
 
-  
